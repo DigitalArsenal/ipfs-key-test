@@ -1,0 +1,21 @@
+{
+  "name": "ipfs-key-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "bs58": "^5.0.0",
+    "btoa": "^1.2.1",
+    "libp2p-crypto": "^0.21.2",
+    "multihashes": "^4.0.3",
+    "peer-id": "^0.16.0",
+    "protobufjs": "^6.11.2"
+  }
+}
