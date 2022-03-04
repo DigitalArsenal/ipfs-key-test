@@ -13,9 +13,11 @@
     "atob": "^2.1.2",
     "bs58": "^5.0.0",
     "btoa": "^1.2.1",
+    "cids": "^1.1.9",
     "libp2p-crypto": "^0.21.2",
     "multihashes": "^4.0.3",
     "peer-id": "^0.16.0",
-    "protobufjs": "^6.11.2"
+    "protobufjs": "^6.11.2",
+    "varint": "^6.0.0"
   }
 }
